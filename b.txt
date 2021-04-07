@@ -1,3 +1,0 @@
-add a new line
-add b new line
-add c new line
